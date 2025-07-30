@@ -1,2 +1,2 @@
 m="hello world"
-print(m)
+print(m)0
